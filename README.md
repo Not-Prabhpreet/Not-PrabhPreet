@@ -1,7 +1,7 @@
 <h2 align="left">Hii! This is Prabh, I am a third-year Comp Sci student interested in Software Development and Machine Learning. I like learning new technologies and Building cool Stuff.</h2>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="70%" width="70%" alt="animated gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="60%" width="60%" alt="animated gif" />
 </div>
 
 ###
